@@ -1,1 +1,3 @@
 发哈佛哈哈脸色看世界地震预警
+Git is a distributed version control system.
+Git is free software.
